@@ -4,6 +4,7 @@
 
 
 ## 🌐 Socials:
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/fahrim/badge.svg)](https://hub.xerj.org/contributors/fahrim)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZCjcPasZ)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Smarteknoloji)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/SmarteknolojiTR/)
